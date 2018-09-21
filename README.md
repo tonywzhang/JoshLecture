@@ -12,4 +12,4 @@
 * Constantly Reflecting on Job Search
 
 * Not required to submit a reflection, but is recommended.
-* 
+* Will go live at 12:01 AM, Sunday/Monday
