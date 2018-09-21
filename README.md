@@ -11,5 +11,20 @@
 * Networking
 * Constantly Reflecting on Job Search
 
+
 * Not required to submit a reflection, but is recommended.
 * Will go live at 12:01 AM, Sunday/Monday
+
+
+* Study Sessions
+* Coding Sessions
+
+* Networking Connections
+
+* Interview Prep
+
+* Applications Submitted
+
+* Updates on Active Application
+
+* Previously Scheduled Interviews or Coding Challenges
